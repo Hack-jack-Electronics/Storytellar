@@ -648,7 +648,3 @@ device-authentication
 ```
 
 ---
-
-## 📄 License
-
-Add the project's license here once the repository license is finalized.
