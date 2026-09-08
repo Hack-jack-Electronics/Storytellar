@@ -123,3 +123,4 @@ As a **Founding Embedded Engineer at EchoTales**, I worked on:
 ## 🔗 Repository
 
 [GitHub — Storytellar](https://github.com/Hack-jack-Electronics/Storytellar)
+[Prototype-Video](https://youtube.com/shorts/uQehqIdOT2Q)
